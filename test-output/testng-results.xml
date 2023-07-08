@@ -8,30 +8,30 @@
       <![CDATA[Opening FB login Page...]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-07-08T11:05:41 IST" name="Default suite" finished-at="2023-07-08T11:06:04 IST" duration-ms="23038">
+  <suite started-at="2023-07-08T15:01:53 IST" name="Default suite" finished-at="2023-07-08T15:02:50 IST" duration-ms="57183">
     <groups>
     </groups>
-    <test started-at="2023-07-08T11:05:41 IST" name="Default test" finished-at="2023-07-08T11:06:04 IST" duration-ms="23038">
+    <test started-at="2023-07-08T15:01:53 IST" name="Default test" finished-at="2023-07-08T15:02:50 IST" duration-ms="57183">
       <class name="sample_1.FacebookLoginPage">
-        <test-method is-config="true" signature="InitializingDriver()[pri:0, instance:sample_1.FacebookLoginPage@17f62e33]" started-at="2023-07-08T11:05:41 IST" name="InitializingDriver" finished-at="2023-07-08T11:05:58 IST" duration-ms="17444" status="PASS">
+        <test-method is-config="true" signature="InitializingDriver()[pri:0, instance:sample_1.FacebookLoginPage@795509d9]" started-at="2023-07-08T15:01:53 IST" name="InitializingDriver" finished-at="2023-07-08T15:02:39 IST" duration-ms="45876" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Starting browser...]]>
             </line>
           </reporter-output>
         </test-method> <!-- InitializingDriver -->
-        <test-method is-config="true" signature="OpenFBloginPage()[pri:0, instance:sample_1.FacebookLoginPage@17f62e33]" started-at="2023-07-08T11:05:58 IST" name="OpenFBloginPage" finished-at="2023-07-08T11:06:02 IST" duration-ms="3413" status="PASS">
+        <test-method is-config="true" signature="OpenFBloginPage()[pri:0, instance:sample_1.FacebookLoginPage@795509d9]" started-at="2023-07-08T15:02:39 IST" name="OpenFBloginPage" finished-at="2023-07-08T15:02:46 IST" duration-ms="6257" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Opening FB login Page...]]>
             </line>
           </reporter-output>
         </test-method> <!-- OpenFBloginPage -->
-        <test-method signature="ValidatingEmptyfield()[pri:0, instance:sample_1.FacebookLoginPage@17f62e33]" started-at="2023-07-08T11:06:02 IST" name="ValidatingEmptyfield" finished-at="2023-07-08T11:06:03 IST" duration-ms="1134" status="PASS">
+        <test-method signature="ValidatingEmptyfield()[pri:0, instance:sample_1.FacebookLoginPage@795509d9]" started-at="2023-07-08T15:02:46 IST" name="ValidatingEmptyfield" finished-at="2023-07-08T15:02:49 IST" duration-ms="3328" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ValidatingEmptyfield -->
-        <test-method is-config="true" signature="ClosingFBLoginPage()[pri:0, instance:sample_1.FacebookLoginPage@17f62e33]" started-at="2023-07-08T11:06:03 IST" name="ClosingFBLoginPage" finished-at="2023-07-08T11:06:04 IST" duration-ms="831" status="PASS">
+        <test-method is-config="true" signature="ClosingFBLoginPage()[pri:0, instance:sample_1.FacebookLoginPage@795509d9]" started-at="2023-07-08T15:02:49 IST" name="ClosingFBLoginPage" finished-at="2023-07-08T15:02:50 IST" duration-ms="1437" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ClosingFBLoginPage -->

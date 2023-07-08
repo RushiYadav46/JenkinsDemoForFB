@@ -36,8 +36,9 @@ public class FacebookLoginPage {
 	}
 	
 	@AfterMethod
-	public void ClosingFBLoginPage()
+	public void ClosingFBLoginPage() throws InterruptedException
 	{
+		Thread.sleep(2000);
 		driver.close();
 	}
 }

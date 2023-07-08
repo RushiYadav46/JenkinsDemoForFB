@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Starting browser...]]>
+    </line>
+    <line>
+      <![CDATA[Opening FB login Page...]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-08T11:05:41 IST" name="Default suite" finished-at="2023-07-08T11:06:04 IST" duration-ms="23038">
+    <groups>
+    </groups>
+    <test started-at="2023-07-08T11:05:41 IST" name="Default test" finished-at="2023-07-08T11:06:04 IST" duration-ms="23038">
+      <class name="sample_1.FacebookLoginPage">
+        <test-method is-config="true" signature="InitializingDriver()[pri:0, instance:sample_1.FacebookLoginPage@17f62e33]" started-at="2023-07-08T11:05:41 IST" name="InitializingDriver" finished-at="2023-07-08T11:05:58 IST" duration-ms="17444" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Starting browser...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- InitializingDriver -->
+        <test-method is-config="true" signature="OpenFBloginPage()[pri:0, instance:sample_1.FacebookLoginPage@17f62e33]" started-at="2023-07-08T11:05:58 IST" name="OpenFBloginPage" finished-at="2023-07-08T11:06:02 IST" duration-ms="3413" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Opening FB login Page...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- OpenFBloginPage -->
+        <test-method signature="ValidatingEmptyfield()[pri:0, instance:sample_1.FacebookLoginPage@17f62e33]" started-at="2023-07-08T11:06:02 IST" name="ValidatingEmptyfield" finished-at="2023-07-08T11:06:03 IST" duration-ms="1134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidatingEmptyfield -->
+        <test-method is-config="true" signature="ClosingFBLoginPage()[pri:0, instance:sample_1.FacebookLoginPage@17f62e33]" started-at="2023-07-08T11:06:03 IST" name="ClosingFBLoginPage" finished-at="2023-07-08T11:06:04 IST" duration-ms="831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClosingFBLoginPage -->
+      </class> <!-- sample_1.FacebookLoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
